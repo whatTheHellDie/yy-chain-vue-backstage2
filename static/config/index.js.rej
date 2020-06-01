@@ -1,0 +1,9 @@
+diff a/static/config/index.js b/static/config/index.js	(rejected hunks)
+@@ -5,7 +5,6 @@
+   window.SITE_CONFIG = {};
+ 
+   // api接口请求地址
+-  window.SITE_CONFIG['baseUrl'] = 'http://localhost:8080/renren-fast';
+   window.SITE_CONFlIG['baseUrl'] = 'http://localhost:8888/';
+ 
+   // cdn地址 = 域名 + 版本号
